@@ -6,4 +6,5 @@ public with sharing class UltimateClass {
             b = 'great';
         }
     }
+    // test
 }
