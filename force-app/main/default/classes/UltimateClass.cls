@@ -4,7 +4,7 @@ public with sharing class UltimateClass {
         String b = null;
         if(a == 'hi'){
             b = 'great';
-        }
+        } 
     }
     // test
 }
